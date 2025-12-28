@@ -44,6 +44,8 @@ a[href="http://www.wikidot.com/user:info/lantiankuo"]{
 a[href="http://www.wikidot.com/user:info/lantiankuo"]::before{
   content: "★";
 ｝
+/* 用户名头像前的内容影藏 */
+a img.small::before{display: none;font-size: 0;}
 /* 样式 */
 span.tag{
   background: grey;
