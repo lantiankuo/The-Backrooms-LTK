@@ -1,0 +1,49 @@
+/* 管理员 */
+a[href="http://www.wikidot.com/user:info/lanbaoshi1145"]{
+  background: -webkit-linear-gradient(to right, #0083fe, #00fff0);
+  background: linear-gradient(90deg, #0083fe 0%, #00fff0 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+a[href="http://www.wikidot.com/user:info/macro129"]{
+  background: -webkit-linear-gradient(to right, #0083fe, #00fff0);
+  background: linear-gradient(90deg, #0083fe 0%, #00fff0 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+a[href="http://www.wikidot.com/user:info/shenglvehaowu"]{
+  background: -webkit-linear-gradient(to right, #0083fe, #00fff0);
+  background: linear-gradient(90deg, #0083fe 0%, #00fff0 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* 版主 */
+a[href="http://www.wikidot.com/user:info/dounai111"]{
+  background: -webkit-linear-gradient(to bottom, #1e90ff, #f9c942, #ff1e56);
+  background: linear-gradient(to bottom, #1e90ff, #f9c942, #ff1e56);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* 恶搞蚕大蛇 */
+a[href="http://www.wikidot.com/user:info/can-da-she"]{
+  background: -webkit-linear-gradient(to bottom, #1e90ff, #f9c942, #ff1e56);
+  background: linear-gradient(to bottom, #1e90ff, #f9c942, #ff1e56);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* 站长专属 */
+a[href="http://www.wikidot.com/user:info/lantiankuo"]{
+  background: #348F50;
+  background: -webkit-linear-gradient(to right, #56B4D3, #348F50);
+  background: linear-gradient(to right, #56B4D3, #348F50);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+/* 样式 */
+span.tag{
+  background: grey;
+  border-radius: 2px;
+  color: white;
+  padding: 0.075em;
+  font-size: 0.85em;
+  height: 1em;
+}
